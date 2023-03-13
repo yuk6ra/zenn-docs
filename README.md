@@ -1,4 +1,3 @@
-Zenn Docs
 # Activate Preview
 
 ```
